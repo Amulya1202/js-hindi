@@ -1,0 +1,22 @@
+"use strict"; //treat all js code as new version
+
+//alert("hello")we are using nodejs not browser
+
+console.log(3+3)
+console.log("hots")
+
+let name="string"
+let age="18"
+let islogg=false;
+
+//number==2 to power 53;
+//bigint
+//string=>""
+//boolean=>true/false
+//null=>standalonevalue
+//undefined=>
+//symbol=>unique;
+//null ek object hai
+//undefined ek type hai
+
+console.log(typeof string )
