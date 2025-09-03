@@ -1,0 +1,17 @@
+let score=null
+
+//console.log(typeof score);
+//console.log(typeof(score));
+
+let valueInNumber=Number(score)
+
+//"33"=>33
+//"33abc"=>NaN
+//true=>true ;false=>0
+//1 boolean me true hota hai
+//0 false hota hai
+//empty string false;
+//string true hota hai
+let somenumber=33
+
+let string number=String(somenumber)
